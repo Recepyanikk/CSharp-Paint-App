@@ -98,4 +98,4 @@ Bu proje Atatürk Üniversitesi Yazılım Mühendisliği bölümü kapsamında b
 Kodların tamamı veya bir kısmı **yalnızca eğitim ve araştırma amaçlı** kullanılabilir. 
 Eser sahibinin izni olmaksızın ticari bir üründe kullanılması veya satılması yasaktır.
 ---
-*Developed by [Recep Yanık]*
+*Developed by [Recep Tayyip Yanık]*
