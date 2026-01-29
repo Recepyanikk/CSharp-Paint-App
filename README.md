@@ -1,6 +1,6 @@
 #  Advanced GDI+ Drawing & Pixel Art Engine
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows) [![Framework](https://img.shields.io/badge/framework-.NET%20Framework-purple.svg)](https://dotnet.microsoft.com/en-us/download/dotnet-framework) [![Language](https://img.shields.io/badge/language-C%23-green.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![License](https://img.shields.io/badge/license-CC--BY--NC-orange.svg)](./LICENSE) [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows) [![Framework](https://img.shields.io/badge/framework-.NET%20Framework-purple.svg)](https://dotnet.microsoft.com/en-us/download/dotnet-framework) [![Language](https://img.shields.io/badge/language-C%23-green.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 ##  Proje Hakkında
 Bu proje, **System.Drawing (GDI+)** kütüphanesinin sınırlarını zorlayan, performans odaklı bir **Raster Grafik Editörü** mühendislik çalışmasıdır. Standart bir "Paint" uygulamasının ötesinde, bu yazılım **özel rendering algoritmaları**, **bellek güvenli katman yönetimi** ve **yığın (stack) tabanlı durum kontrolü** gibi gelişmiş yazılım mimarisi tekniklerini sergilemektedir.
 
