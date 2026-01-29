@@ -94,7 +94,7 @@ Projeyi yerel ortamınızda çalıştırmak ve kaynak kodları incelemek için:
 *   [ ] **Filtreler:** Parlaklık, Kontrast ve Blur efektleri için matris işlemleri.
 
 ##  Lisans ve Kullanım Koşulları
-[cite_start]Bu proje Atatürk Üniversitesi Yazılım Mühendisliği bölümü kapsamında bir eğitim çalışması olarak geliştirilmiştir[cite: 42, 44]. 
+Bu proje Atatürk Üniversitesi Yazılım Mühendisliği bölümü kapsamında bir eğitim çalışması olarak geliştirilmiştir. 
 Kodların tamamı veya bir kısmı **yalnızca eğitim ve araştırma amaçlı** kullanılabilir. 
 Eser sahibinin izni olmaksızın ticari bir üründe kullanılması veya satılması yasaktır.
 ---
