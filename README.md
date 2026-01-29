@@ -1,15 +1,15 @@
-# Advanced GDI+ Drawing & Pixel Art Engine
+# 🎨 Advanced GDI+ Drawing & Pixel Art Engine
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg) ![Framework](https://img.shields.io/badge/framework-.NET%20Framework-purple.svg) ![Language](https://img.shields.io/badge/language-C%23-green.svg)
 
-##  Proje Hakkında
+## 📖 Proje Hakkında
 Bu proje, **System.Drawing (GDI+)** kütüphanesinin sınırlarını zorlayan, performans odaklı bir **Raster Grafik Editörü** mühendislik çalışmasıdır. Standart bir "Paint" uygulamasının ötesinde, bu yazılım **özel rendering algoritmaları**, **bellek güvenli katman yönetimi** ve **yığın (stack) tabanlı durum kontrolü** gibi gelişmiş yazılım mimarisi tekniklerini sergilemektedir.
 
 Amacı, WinForms üzerinde düşük seviyeli grafik manipülasyonunun ve piksel tabanlı işlemlerin nasıl optimize edilebileceğini göstermektir.
 
 ---
 
-##  Teknik Mimari ve Mühendislik Detayları
+## 🚀 Teknik Mimari ve Mühendislik Detayları
 
 Proje arka planda 4 ana teknik ayağa dayanmaktadır:
 
@@ -51,7 +51,7 @@ Pixel Art modunda kullanıcıya yardımcı olan ızgara sistemi, ana tuval (Canv
 
 ---
 
-## Teknoloji Yığını
+## 🛠️ Teknoloji Yığını
 
 | Bileşen | Teknoloji | Açıklama |
 | :--- | :--- | :--- |
@@ -63,7 +63,7 @@ Pixel Art modunda kullanıcıya yardımcı olan ızgara sistemi, ana tuval (Canv
 
 ---
 
-##  Geliştirme Metrikleri
+## 📊 Geliştirme Metrikleri
 
 Proje, çevik (agile) prensipler izlenerek modüler bir yapıda geliştirilmiştir.
 
@@ -74,7 +74,7 @@ Proje, çevik (agile) prensipler izlenerek modüler bir yapıda geliştirilmişt
 
 ---
 
-##  Kurulum ve Test
+## 💻 Kurulum ve Test
 
 Projeyi yerel ortamınızda çalıştırmak ve kaynak kodları incelemek için:
 
@@ -88,11 +88,11 @@ Projeyi yerel ortamınızda çalıştırmak ve kaynak kodları incelemek için:
 
 ---
 
-##  Gelecek Planları (Roadmap)
+## 🔮 Gelecek Planları (Roadmap)
 
 *   [ ] **Layer (Katman) Yönetimi:** Photoshop benzeri çoklu katman desteği.
 *   [ ] **Vector Export:** Çizimlerin SVG formatında dışa aktarımı.
 *   [ ] **Filtreler:** Parlaklık, Kontrast ve Blur efektleri için matris işlemleri.
 
 ---
-*Developed by [Recep Tayyip Yanık]*
+*Developed by [Recep Yanık]*
