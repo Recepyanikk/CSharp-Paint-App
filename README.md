@@ -97,5 +97,7 @@ Projeyi yerel ortamınızda çalıştırmak ve kaynak kodları incelemek için:
 Bu proje Atatürk Üniversitesi Yazılım Mühendisliği bölümü kapsamında bir eğitim çalışması olarak geliştirilmiştir. 
 Kodların tamamı veya bir kısmı **yalnızca eğitim ve araştırma amaçlı** kullanılabilir. 
 Eser sahibinin izni olmaksızın ticari bir üründe kullanılması veya satılması yasaktır.
+Bu proje eğitim amaçlıdır, kopyalanıp ödev olarak sunulması akademik dürüstlüğe aykırıdır
+Detaylar için [LICENSE](./LICENSE) dosyasına bakınız.
 ---
 *Developed by [Recep Tayyip Yanık]*
